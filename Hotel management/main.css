@@ -1,0 +1,315 @@
+#top{
+	background-color: orange;
+	height: 4rem;
+	width: 100%;
+}
+.frst-ul{
+	line-height: 2rem;
+	float: left;
+}
+.scnd-ul{
+	float: right;
+	line-height: 2rem;
+	margin-right: 15rem;
+}
+.frst-li-1{
+	margin-left: 27rem;
+	list-style: none;
+	display: inline-block;
+}
+.frst-li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 2rem;
+}
+.frst-a{
+	text-decoration: none;
+	color: white;
+	font-family: sans-serif;
+	font-size: 1rem;
+	position: relative;
+}
+.frst-a:hover{
+	color: red;
+	transition: 0.5s ease-in;
+}
+
+#Container{
+	height: 37rem;
+	width: 100%;
+	background-image: url(https://wallpapercave.com/wp/wp7462967.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#main-container{
+	height: 15rem;
+	width: 100%;
+	margin-top: 5rem;
+}
+#cont-1{
+	width: 40%;
+	height: 15rem;
+	float: left;
+	margin-left: 8%;
+}
+#cont-2{
+	width: 40%;
+	height: 15rem;
+	float: right;
+	margin-right: 8%;
+}
+.about{
+	color: green;
+	float: right;
+	font-family: sans-serif;
+	font-size: 1.1rem;
+	letter-spacing: 0.2rem;
+	margin-right: 0.5rem;
+	font-weight: bolder;
+}
+.tasty{
+	color: black;
+	font-family: sans-serif;
+	margin-left: 28%;
+	font-size: 3rem;
+	letter-spacing: 0.2rem;
+	font-weight: bolder;
+}
+.tasty-1{
+	color: black;
+	font-family: sans-serif;
+	margin-left: 80%;
+	font-size: 3rem;
+	letter-spacing: 0.2rem;
+	font-weight: bolder;
+}
+.para{
+	color: grey;
+}
+#drop-cont{
+	background-image: url(https://wallpapercave.com/wp/wp2055308.jpg);
+	height: 33rem;
+	width: 70%;
+	margin: auto;
+	background-size: cover;
+	background-position: center;
+	padding-top: 10rem;
+}
+#below-cont{
+	height: 35rem;
+	width: 55%;
+	background-color: white;
+	margin-left: 8rem;
+	padding-top: 5rem;
+	padding-left: 3rem;
+	border: solid lightgrey 0.01rem;
+	box-shadow: 1px 1px 7px 1px;
+}
+.we{
+	color: green;
+	font-size: 1.2rem;
+	font-family: sans-serif;
+}
+.our{
+	color: black;
+	font-size: 3rem;
+	letter-spacing: 0.3rem;
+	font-family: sans-serif;
+}
+.order{
+	font-family: sans-serif;
+	font-weight: bolder;
+	color: white;
+	background-color: green;
+	padding: 1rem;
+	cursor: pointer;
+	border: none;
+}
+.order:hover{
+	color: green;
+	background-color: white;
+	transition: 0.5s ease-in;
+	border: solid green;
+}
+#basement{
+	background-color: black;
+	height: 128rem;
+	width: 100%;
+}
+#btwn-1{
+	height: 120rem;
+	width: 33%;
+	float: left;
+	margin-left: 15%;
+	padding-top: 5rem;
+}
+#btwn-2{
+	height: 119rem;
+	width: 33%;
+	float: right;
+	margin-right: 15%;
+	padding-top: 6.5%;
+}
+.taste{
+	color: white;
+	font-family: sans-serif;
+	font-size: 1.1rem;
+	font-weight: bolder;
+}
+.service{
+	color: white;
+	font-family: sans-serif;
+	font-size: 3rem;
+	letter-spacing: 0.3rem;
+	font-weight: bolder;
+}
+#sap{
+	height: 25rem;
+	background-color: red;
+	background-image: url(https://wallpapercave.com/wp/wp8327613.jpg);
+	background-size: cover;
+	background-position: center;
+}
+#sap-1{
+	height: 45rem;
+	background-color: red;
+	background-image: url(https://wallpapercave.com/wp/wp7462835.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-top: 6rem;
+}
+#sap-2{
+	height: 25rem;
+	background-color: red;
+	background-image: url(https://wallpapercave.com/wp/wp8327862.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-top: 6rem;
+}
+#sap-3{
+	height: 45rem;
+	background-color: red;
+	background-image: url(https://wallpapercave.com/wp/wp8327876.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-top: 6rem;
+}
+#sap-4{
+	height: 25rem;
+	background-color: red;
+	background-image: url(https://wallpapercave.com/wp/wp8327912.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-top: 6rem;
+}
+#sap-5{
+	height: 25rem;
+	background-color: red;
+	background-image: url(https://wallpapercave.com/wp/wp8327919.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-top: 6rem;
+}
+.rate{
+	font-size: 1.5rem;
+	font-weight: bolder;
+	padding-left: 2rem;
+}
+.a{
+	font-size: 0.8rem;
+	font-weight: bolder;
+	text-decoration: none;
+	padding-left: 2rem;
+	color: green;
+}
+#sub-sap{
+	background-color: white;
+	padding: 1rem;
+	width: 70%;
+	float: right;
+	margin-top: 65%;
+	margin-right: 3rem;
+}
+#sub-sap-1{
+	background-color: white;
+	padding: 1rem;
+	width: 70%;
+	float: right;
+	margin-top: 130%;
+	margin-right: 3rem;
+}
+#footer{
+	background-color: white;
+	height: 10rem;
+	width: 100%;
+}
+#foot{
+	width: 48%;
+	height: 15rem;
+	float: left;
+}
+#foot-1{
+	width: 48%;
+	height: 15rem;
+	float: right;
+}
+#sub-foot-1{
+	margin-top: 2rem;
+	width: 30%;
+	height: 15rem;
+	float: left;
+	margin-left: 10rem;
+}
+#sub-foot-2{
+	margin-top: 2rem;
+	width: 30%;
+	height: 15rem;
+	float: right;
+	margin-right: 8rem;
+}
+.foot-ul{
+	list-style: none;
+}
+.foot-li{
+	margin-top: 1rem;
+}
+.foot-a{
+	text-decoration: none;
+	color: grey;
+}
+.download{
+	margin-left: 5rem;
+}
+.card{
+	height: 4rem;
+	width: 20%;
+}
+.foot-card{
+	height: 15rem;
+	width: 40%;
+	float: left;
+}
+.foot-card-1{
+	height: 15rem;
+	width: 50%;
+	float: right;
+	margin-right: 10%;
+}
+.img-1{
+	height: 4rem;
+	width: 5rem;
+	margin-left: 5rem;
+}
+.img-2{
+	height: 4rem;
+	width: 5rem;
+}
+.img-5{
+	height: 8rem;
+	width: 17rem;
+}
+.img-4{
+	height: 3rem;
+	width: 10rem;
+}
